@@ -1,1 +1,2 @@
-# Lex-Aeterna.github.io
+# Welcome to my personal website!
+Lex-Aeterna.github.io
